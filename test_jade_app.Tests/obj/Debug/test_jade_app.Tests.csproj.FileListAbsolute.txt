@@ -1,0 +1,61 @@
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\ApplicationInsights.config
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\csc.exe
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\vbc.exe
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.Tests.dll.config
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.Tests.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.Tests.pdb
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.WebHost.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.pdb
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.xml
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.WebHost.xml
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\obj\Debug\test_jade_app.Tests.csprojResolveAssemblyReference.cache
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\obj\Debug\test_jade_app.Tests.dll
+c:\users\bangash\documents\visual studio 2015\Projects\test_jade_app\test_jade_app.Tests\obj\Debug\test_jade_app.Tests.pdb
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\ApplicationInsights.config
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\csc.exe
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\vbc.exe
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.Tests.dll.config
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.Tests.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.Tests.pdb
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.Cors.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Cors.dll
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\test_jade_app.pdb
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.xml
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.Cors.xml
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\test_jade_app\test_jade_app.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\test_jade_app\test_jade_app.Tests\obj\Debug\test_jade_app.Tests.csprojResolveAssemblyReference.cache
+D:\test_jade_app\test_jade_app.Tests\obj\Debug\test_jade_app.Tests.dll
+D:\test_jade_app\test_jade_app.Tests\obj\Debug\test_jade_app.Tests.pdb
